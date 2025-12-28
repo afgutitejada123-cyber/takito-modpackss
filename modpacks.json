@@ -1,1 +1,13 @@
-
+{
+  "modpacks": [
+    {
+      "id": "takito_s1",
+      "name": "Serie Takito S1",
+      "mc_version": "1.20.1",
+      "loader": "forge",
+      "loader_version": "47.2.0",
+      "icon": "https://raw.githubusercontent.com/afgutitejada123-cyber/takito-modpackss/main/icons/",
+      "files_url": "https://raw.githubusercontent.com/afgutitejada123-cyber/takito-modpackss/main/packs/"
+    }
+  ]
+}
